@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Extensions>
+	<Extension>
+		<Type>jpg</Type>
+	</Extension>
+	<Extension>
+		<Type>arw</Type>
+	</Extension>
+	<Extension>
+		<Type>bmp</Type>
+	</Extension>
+</Extensions>
