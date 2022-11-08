@@ -1,4 +1,4 @@
-#CopyToCollectiveFolder
+CopyToCollectiveFolder
 
 
 Copying files to a collective folder.
