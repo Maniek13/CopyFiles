@@ -30,3 +30,5 @@ useExtensionList: 0
 deleteOtherFiles: 0
 copyFromMain: 1
 
+
+Extension list can be modificated. It is in settings.xml
